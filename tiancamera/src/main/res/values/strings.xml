@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TianCamera</string>
+    <string name="cancel">Cancel</string>
+    <string name="continue_text">Continue</string>
+    <string name="collection">Collection</string>
+    <string name="record_video">Record video</string>
+    <string name="take_photo">Take photo</string>
+    <string name="video">Video</string>
+    <string name="next">Continue</string>
+
+</resources>
